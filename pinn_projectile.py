@@ -2,7 +2,7 @@
 Physics-Informed Neural Network (PINN) vs. classical ODE fitting
 for 2D projectile motion under quadratic air drag.
 
-Developed for an IB Extended Essay (HL Physics):
+Physics research:
 "A Comparative Analysis of Physics-Informed Neural Networks and
 Traditional Numerical Methods for Modelling Projectile Motion under
 Air Resistance."

@@ -9,8 +9,8 @@ more reliably than classical least-squares fitting of the governing ODE?
 **Result: yes — by a wide margin.** The PINN recovered a drag coefficient within
 **0.25%** of ground truth; classical least-squares fitting was off by **12.4%**.
 
-Developed as an IB Extended Essay in HL Physics. Full write-up:
-[`docs/extended_essay.docx`](docs/extended_essay.docx).
+Developed as independent physics research. Full write-up:
+[`docs/physics_research.docx`](docs/physics_research.docx).
 
 ![Trajectory comparison](trajectory_comparison.png)
 
@@ -189,7 +189,7 @@ the figures and table above regenerate exactly.
 ```
 pinn_projectile.py            Full implementation: simulation, ODE fit, PINN, metrics
 model_comparison_table.csv    Results table
-docs/extended_essay.docx      Original Extended Essay write-up
+docs/physics_research.docx    Full research write-up
 *.png                         Generated figures
 ```
 
